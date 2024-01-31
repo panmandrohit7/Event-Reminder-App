@@ -1,0 +1,19 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\app",
+    "\\app\\src",
+    "\\app\\src\\androidTest",
+    "\\app\\src\\androidTest\\java",
+    "\\app\\src\\androidTest\\java\\com",
+    "\\app\\src\\androidTest\\java\\com\\phoenix",
+    "\\app\\src\\androidTest\\java\\com\\phoenix\\EventReminder",
+    "\\app\\src\\main",
+    "\\app\\src\\main\\java",
+    "\\app\\src\\main\\java\\com",
+    "\\app\\src\\main\\java\\com\\phoenix",
+    "\\app\\src\\main\\java\\com\\phoenix\\EventReminder"
+  ],
+  "SelectedNode": "\\app\\src\\main\\java\\com\\phoenix\\EventReminder\\MainActivity2.java",
+  "PreviewInSolutionExplorer": false
+}
